@@ -106,6 +106,7 @@ public class Robot : MonoBehaviour
 		StoreChatMessages(robotChat); // cleaner way to filter messages
 		
 		// Working messy code
+		// 
 		/*
 		var numberCommandChatMessages = 0;
 		var countMessages = robotMessages.GetChatMessages();
